@@ -868,6 +868,7 @@
         "m_nSerializePoseRecipeSizeAG2": "0x5B0",
         "m_nSerializePoseRecipeVersionAG2": "0x5B4",
         "m_nGraphCreationFlagsAG2": "0x1890",
+        "m_nServerGraphDefReloadCountAG2": "0x1A7C",
         "m_nServerGraphInstanceIteration": "0x5B8",
         "m_nServerSerializationContextIteration": "0x5BC",
         "m_primaryGraphId": "0x5C0",
