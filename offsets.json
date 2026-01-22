@@ -615,6 +615,7 @@
         "m_nAnimLoopMode": "0x2D8",
         "m_flPlaybackRate": "0x2DC",
         "m_nNotifyState": "0x2E8",
+        "m_flPrevAnimUpdateTime": "0x14D8",
         "m_bNetworkedAnimationInputsChanged": "0x2E9",
         "m_bNetworkedSequenceChanged": "0x2EA",
         "m_bLastUpdateSkipped": "0x2EB",
