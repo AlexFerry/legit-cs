@@ -1228,6 +1228,7 @@
         "m_aimPunchAngleVel": "0x16D8",
         "m_aimPunchTickBase": "0x16E4",
         "m_aimPunchTickFraction": "0x16E8",
+        "m_aimPunchCache": "0x1708",
         "m_bInLanding": "0x1710",
         "m_flLandingStartTime": "0x1714",
         "m_bInHostageRescueZone": "0x1718",
