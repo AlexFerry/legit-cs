@@ -862,6 +862,7 @@
         "m_bSequenceFinished": "0x2EC",
         "m_nPrevAnimUpdateTick": "0x2F0",
         "m_hGraphDefinitionAG2": "0x590",
+        "m_bIsUsingAG2": "0x1868",
         "m_serializedPoseRecipeAG2": "0x598",
         "m_nSerializePoseRecipeSizeAG2": "0x5B0",
         "m_nSerializePoseRecipeVersionAG2": "0x5B4",
