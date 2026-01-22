@@ -950,6 +950,8 @@ inline struct CBaseAnimGraphControllerOffsets {
 	DWORD m_nSerializePoseRecipeVersionAG2;
 	DWORD m_flPrevAnimUpdateTime;
 	DWORD m_nServerGraphInstanceIteration;
+	DWORD m_nGraphCreationFlagsAG2;
+	DWORD m_nServerGraphDefReloadCountAG2;
 	DWORD m_nServerSerializationContextIteration;
 	DWORD m_primaryGraphId;
 	DWORD m_vecExternalGraphIds;
