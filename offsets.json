@@ -1,4 +1,22 @@
 {
+    "buttons": {
+        "attack": "0x1BE83A0",
+        "attack2": "0x1BE8430",
+        "back": "0x1BE8670",
+        "duck": "0x1BE8940",
+        "forward": "0x1BE85E0",
+        "jump": "0x1BE88B0",
+        "left": "0x1BE8700",
+        "lookatweapon": "0x1E3C070",
+        "reload": "0x1BE8310",
+        "right": "0x1BE8790",
+        "showscores": "0x1E3BF50",
+        "sprint": "0x1BE8280",
+        "turnleft": "0x1BE84C0",
+        "turnright": "0x1BE8550",
+        "use": "0x1BE8820",
+        "zoom": "0x1E3BFE0"
+    },
     "CPulseCell_WaitForCursorsWithTag": {
         "m_bTagSelfWhenComplete": "0x98",
         "m_nDesiredKillPriority": "0x9C"
