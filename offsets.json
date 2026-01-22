@@ -1626,6 +1626,7 @@
         "m_nDestructiblePartInitialStateDestructed3_PartIndex": "0xB30",
         "m_nDestructiblePartInitialStateDestructed4_PartIndex": "0xB34",
         "m_pDestructiblePartsSystemComponent": "0xB38",
+        "m_LastHitGroup": "0xB08",
         "m_bInitModelEffects": "0xB58",
         "m_bDoingModelEffects": "0xB59",
         "m_bIsStaticProp": "0xB5A",
