@@ -861,6 +861,7 @@
         "m_bLastUpdateSkipped": "0x2EB",
         "m_bSequenceFinished": "0x2EC",
         "m_nPrevAnimUpdateTick": "0x2F0",
+        "m_flPrevAnimUpdateTime": "0x14D8",
         "m_hGraphDefinitionAG2": "0x590",
         "m_bIsUsingAG2": "0x1868",
         "m_serializedPoseRecipeAG2": "0x598",
