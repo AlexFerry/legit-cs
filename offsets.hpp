@@ -1345,6 +1345,7 @@ inline struct C_CSPlayerPawnOffsets {
 	DWORD m_aimPunchAngleVel;
 	DWORD m_aimPunchTickBase;
 	DWORD m_aimPunchTickFraction;
+	DWORD m_aimPunchCache;
 	DWORD m_bInLanding;
 	DWORD m_flLandingStartTime;
 	DWORD m_bInHostageRescueZone;
