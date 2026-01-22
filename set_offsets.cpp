@@ -943,6 +943,7 @@ CBaseAnimGraphController.m_nNotifyState = findOffsetByName(j, "CBaseAnimGraphCon
 CBaseAnimGraphController.m_bNetworkedAnimationInputsChanged = findOffsetByName(j, "CBaseAnimGraphController", "m_bNetworkedAnimationInputsChanged");
 CBaseAnimGraphController.m_bNetworkedSequenceChanged = findOffsetByName(j, "CBaseAnimGraphController", "m_bNetworkedSequenceChanged");
 CBaseAnimGraphController.m_bLastUpdateSkipped = findOffsetByName(j, "CBaseAnimGraphController", "m_bLastUpdateSkipped");
+CBaseAnimGraphController.m_flPrevAnimUpdateTime = findOffsetByName(j, "CBaseAnimGraphController", "m_flPrevAnimUpdateTime");
 CBaseAnimGraphController.m_bSequenceFinished = findOffsetByName(j, "CBaseAnimGraphController", "m_bSequenceFinished");
 CBaseAnimGraphController.m_nPrevAnimUpdateTick = findOffsetByName(j, "CBaseAnimGraphController", "m_nPrevAnimUpdateTick");
 CBaseAnimGraphController.m_hGraphDefinitionAG2 = findOffsetByName(j, "CBaseAnimGraphController", "m_hGraphDefinitionAG2");
