@@ -1,21 +1,21 @@
 {
     "buttons": {
-        "attack": "0x1BE83A0",
-        "attack2": "0x1BE8430",
-        "back": "0x1BE8670",
-        "duck": "0x1BE8940",
-        "forward": "0x1BE85E0",
-        "jump": "0x1BE88B0",
-        "left": "0x1BE8700",
-        "lookatweapon": "0x1E3C070",
-        "reload": "0x1BE8310",
-        "right": "0x1BE8790",
-        "showscores": "0x1E3BF50",
-        "sprint": "0x1BE8280",
-        "turnleft": "0x1BE84C0",
-        "turnright": "0x1BE8550",
-        "use": "0x1BE8820",
-        "zoom": "0x1E3BFE0"
+        "attack": "0x205A560",
+        "attack2": "0x205A5F0",
+        "back": "0x205A830",
+        "duck": "0x205AB00",
+        "forward": "0x205A7A0",
+        "jump": "0x205AA70",
+        "left": "0x205A8C0",
+        "lookatweapon": "0x23111F0",
+        "reload": "0x205A4D0",
+        "right": "0x205A950",
+        "showscores": "0x23110D0",
+        "sprint": "0x205A440",
+        "turnleft": "0x205A680",
+        "turnright": "0x205A710",
+        "use": "0x205A9E0",
+        "zoom": "0x2311160"
     },
     "CFilterEnemy": {
         "m_iszEnemyName": "0x4E0",
@@ -5859,24 +5859,6 @@
     "CEnvBeverage": {
         "m_CanInDispenser": "0x4A8",
         "m_nBeverageType": "0x4AC"
-    },
-    "buttons": {
-        "attack": "0x205A560",
-        "attack2": "0x205A5F0",
-        "back": "0x205A830",
-        "duck": "0x205AB00",
-        "forward": "0x205A7A0",
-        "jump": "0x205AA70",
-        "left": "0x205A8C0",
-        "lookatweapon": "0x23111F0",
-        "reload": "0x205A4D0",
-        "right": "0x205A950",
-        "showscores": "0x23110D0",
-        "sprint": "0x205A440",
-        "turnleft": "0x205A680",
-        "turnright": "0x205A710",
-        "use": "0x205A9E0",
-        "zoom": "0x2311160"
     },
     "CPointTemplate": {
         "m_iszWorldName": "0x4A8",
